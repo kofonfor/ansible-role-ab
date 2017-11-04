@@ -1,0 +1,2 @@
+- name: install ab
+  apt: name=apache2-utils
